@@ -1,4 +1,4 @@
-"""Crawler class, stage 1 of HanzoArchives interview process"""
+"""Crawler class"""
 
 # Written by Kevin Keraudren, 14/06/2011
 
